@@ -14,5 +14,7 @@ export default {
 #app {
   font-family: 'Roboto Mono', 'Noto Sans TC', sans-serif;
   text-align: center;
+  background-color: #f0f9ff;
+  min-height: 100vh;
 }
 </style>

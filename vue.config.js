@@ -14,6 +14,7 @@ module.exports = {
       fullInstall: true
     }
   },
+  lintOnSave: false,
 
   productionSourceMap: false
 }
